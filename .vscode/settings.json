@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\gcc",
+    "files.associations": {
+        "oqs_prov.h": "c",
+        "*.inc": "c",
+        "test_common.h": "c",
+        "core_names.h": "c"
+    }
+}
