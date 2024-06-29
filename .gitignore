@@ -3,3 +3,5 @@
 /liboqs
 /curl
 /build
+*.o
+main
