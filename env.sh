@@ -1,3 +1,5 @@
+#!/bin/sh
+
 export WORKSPACE=~/quantumsafe # set this to a working dir of your choice
 export BUILD_DIR=$WORKSPACE/build # this will contain all the build artifacts
 
